@@ -1,6 +1,6 @@
 # 🧪 Tricentis Demo Web Shop - Web Automation Testing Project
 
-This project is a web automation testing suite for the [Tricentis Demo Web Shop](http://demowebshop.tricentis.com/), designed to demonstrate best practices in UI test automation using modern tools and frameworks.
+This project is a web automation testing suite for the [Tricentis Demo Web Shop](http://demowebshop.tricentis.com/), designed to demonstrate best practices in UI test automation using Java, Selenium, Maven.
 
 ## 🔍 Overview
 
